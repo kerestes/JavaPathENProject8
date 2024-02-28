@@ -2,6 +2,8 @@ package com.openclassrooms.tourguide.service;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
@@ -26,15 +28,12 @@ public class RewardsService {
 	private final GpsUtil gpsUtil;
 	private final RewardCentral rewardsCentral;
 
-	private ThreadPoolTaskExecutor poolTaskExecutor;
+	private ExecutorService poolTaskExecutor;
 	
 	public RewardsService(GpsUtil gpsUtil, RewardCentral rewardCentral) {
 		this.gpsUtil = gpsUtil;
 		this.rewardsCentral = rewardCentral;
-		poolTaskExecutor = new ThreadPoolTaskExecutor();
-		poolTaskExecutor.setCorePoolSize(400);
-		poolTaskExecutor.setMaxPoolSize(6000);
-		poolTaskExecutor.initialize();
+		poolTaskExecutor = Executors.newFixedThreadPool(600);
 	}
 	
 	public void setProximityBuffer(int proximityBuffer) {

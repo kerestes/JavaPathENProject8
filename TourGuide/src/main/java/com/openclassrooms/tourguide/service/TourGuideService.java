@@ -10,6 +10,7 @@ import java.time.ZoneOffset;
 import java.util.*;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -34,18 +35,14 @@ public class TourGuideService {
 	private final GpsUtil gpsUtil;
 	private final RewardsService rewardsService;
 	private final TripPricer tripPricer = new TripPricer();
-
-	private ThreadPoolTaskExecutor poolTaskExecutor;
+	private ExecutorService poolTaskExecutor;
 	public final Tracker tracker;
 	boolean testMode = true;
 
 	public TourGuideService(GpsUtil gpsUtil, RewardsService rewardsService) {
 		this.gpsUtil = gpsUtil;
 		this.rewardsService = rewardsService;
-		poolTaskExecutor = new ThreadPoolTaskExecutor();
-		poolTaskExecutor.setCorePoolSize(400);
-		poolTaskExecutor.setMaxPoolSize(6000);
-		poolTaskExecutor.initialize();
+		poolTaskExecutor = Executors.newFixedThreadPool(40);
 		
 		Locale.setDefault(Locale.US);
 
