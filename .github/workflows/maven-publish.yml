@@ -4,17 +4,15 @@
 name: Maven Package
 
 on:
-  workflow_dispatch:
+  push:
+    branches: [ master ]
   pull_request:
     branches: [ master ]
 
 jobs:
-  build:
+  build_test:
 
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      packages: write
 
     steps:
     - uses: actions/checkout@v3
@@ -23,6 +21,7 @@ jobs:
       with:
         java-version: '17'
         distribution: 'temurin'
+        cache: maven
     
     - name: Install GpsUtil Module
       run: mvn install:install-file -Dfile=./TourGuide/libs/gpsUtil.jar -DgroupId=gpsUtil -DartifactId=gpsUtil -Dversion=1.0.0 -Dpackaging=jar
@@ -41,7 +40,11 @@ jobs:
       run: mvn package -DskipTests
       working-directory: TourGuide
 
-    - name: Publish to GitHub Packages Apache Maven
-      run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
-      env:
-        GITHUB_TOKEN: ${{ github.token }}
+    - name: copy the JAR    
+      run: mkdir staging && cp TourGuide/target/*.jar staging
+    
+    - uses: actions/upload-artifact@v3
+      with: 
+        name: Package
+        path: staging
+

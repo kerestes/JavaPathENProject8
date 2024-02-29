@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="243431be-b03c-4d5c-b59e-21a09f4800ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/openclassrooms/tourguide/service/RewardsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openclassrooms/tourguide/service/RewardsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/openclassrooms/tourguide/service/TourGuideService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openclassrooms/tourguide/service/TourGuideService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourGuideController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourGuideController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourGuideModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourGuideModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourguideApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourguideApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/helper/InternalTestHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/helper/InternalTestHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/RewardsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/RewardsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/tracker/Tracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/tracker/Tracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/UserPreferences.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/UserPreferences.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/UserReward.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/UserReward.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestPerformance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestPerformance.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestRewardsService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestRewardsService.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestTourGuideService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestTourGuideService.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestPerformance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestPerformance.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestRewardsService.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestRewardsService.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestTourGuideService.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestTourGuideService.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestPerformance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestPerformance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestRewardsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestRewardsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestTourGuideService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestTourGuideService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TourguideApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TourguideApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2crBwZDxuEPYmrXfN4bILEHsuIH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TestPerformance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestPerformance.highVolumeGetRewards.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestPerformance.highVolumeTrackLocation.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tourguide [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tourguide [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.TestPerformance.highVolumeTrackLocation">
+    <configuration name="TestPerformance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tourguide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.tourguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.tourguide" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.tourguide.TestPerformance" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPerformance.highVolumeGetRewards" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tourguide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.tourguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.tourguide" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.tourguide.TestPerformance" />
+      <option name="METHOD_NAME" value="highVolumeGetRewards" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPerformance.highVolumeTrackLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tourguide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.tourguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.tourguide" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.tourguide.TestPerformance" />
+      <option name="METHOD_NAME" value="highVolumeTrackLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TourGuide" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TourGuide" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPerformance.highVolumeTrackLocation" />
+        <item itemvalue="JUnit.TestPerformance.highVolumeGetRewards" />
+        <item itemvalue="JUnit.TestPerformance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-e1d2075fd9a7-d3c01152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="243431be-b03c-4d5c-b59e-21a09f4800ff" name="Changes" comment="" />
+      <created>1708860055669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708860055669</updated>
+    </task>
+    <servers />
+  </component>
+</project>

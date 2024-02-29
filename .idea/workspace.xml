@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a974efc8-02a5-45d0-a51e-43fbae6f5700" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2coRTHmGBhiHkBmhkeQUqlM6laa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TourguideApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestPerformance.highVolumeTrackLocation.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRewardsService.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRewardsService.nearAllAttractions.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRewardsService.userGetRewards.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.TestPerformance.highVolumeTrackLocation">
+    <configuration name="TestPerformance.highVolumeTrackLocation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tourguide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.tourguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.tourguide" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.tourguide.TestPerformance" />
+      <option name="METHOD_NAME" value="highVolumeTrackLocation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRewardsService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tourguide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.tourguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.tourguide" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.tourguide.TestRewardsService" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRewardsService.nearAllAttractions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tourguide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.tourguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.tourguide" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.tourguide.TestRewardsService" />
+      <option name="METHOD_NAME" value="nearAllAttractions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRewardsService.userGetRewards" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tourguide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.openclassrooms.tourguide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.openclassrooms.tourguide" />
+      <option name="MAIN_CLASS_NAME" value="com.openclassrooms.tourguide.TestRewardsService" />
+      <option name="METHOD_NAME" value="userGetRewards" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPerformance.highVolumeTrackLocation" />
+        <item itemvalue="JUnit.TestRewardsService.userGetRewards" />
+        <item itemvalue="JUnit.TestRewardsService" />
+        <item itemvalue="JUnit.TestRewardsService.nearAllAttractions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-220112af" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a974efc8-02a5-45d0-a51e-43fbae6f5700" name="Changes" comment="" />
+      <created>1708775951274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708775951274</updated>
+    </task>
+    <servers />
+  </component>
+</project>
