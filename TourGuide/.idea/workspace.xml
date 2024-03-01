@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="243431be-b03c-4d5c-b59e-21a09f4800ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" afterDir="false" />
-    </list>
+    <list default="true" id="243431be-b03c-4d5c-b59e-21a09f4800ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
