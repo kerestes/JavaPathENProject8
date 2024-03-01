@@ -18,7 +18,6 @@ import tripPricer.Provider;
 
 @RestController
 public class TourGuideController {
-
 	@Autowired
 	TourGuideService tourGuideService;
 	
