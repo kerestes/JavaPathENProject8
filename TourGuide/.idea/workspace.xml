@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="243431be-b03c-4d5c-b59e-21a09f4800ff" name="Changes" comment="" />
+    <list default="true" id="243431be-b03c-4d5c-b59e-21a09f4800ff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.TestPerformance.highVolumeTrackLocation">
+  <component name="RunManager" selected="JUnit.TestPerformance.highVolumeGetRewards">
     <configuration name="TestPerformance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tourguide" />
       <extension name="coverage">
@@ -112,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestPerformance.highVolumeTrackLocation" />
         <item itemvalue="JUnit.TestPerformance.highVolumeGetRewards" />
+        <item itemvalue="JUnit.TestPerformance.highVolumeTrackLocation" />
         <item itemvalue="JUnit.TestPerformance" />
       </list>
     </recent_temporary>
