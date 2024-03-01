@@ -5,38 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="243431be-b03c-4d5c-b59e-21a09f4800ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/openclassrooms/tourguide/service/RewardsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openclassrooms/tourguide/service/RewardsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/openclassrooms/tourguide/service/TourGuideService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/openclassrooms/tourguide/service/TourGuideService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourGuideController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourGuideController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourGuideModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourGuideModule.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourguideApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/TourguideApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/helper/InternalTestHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/helper/InternalTestHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/RewardsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/RewardsService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/service/TourGuideService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/tracker/Tracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/tracker/Tracker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/UserPreferences.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/UserPreferences.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/UserReward.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/openclassrooms/tourguide/user/UserReward.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestPerformance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestPerformance.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestRewardsService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestRewardsService.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestTourGuideService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestTourGuideService.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestPerformance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestPerformance.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestRewardsService.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestRewardsService.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestTourGuideService.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TestTourGuideService.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestPerformance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestPerformance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestRewardsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestRewardsService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestTourGuideService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestTourGuideService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TourguideApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TourguideApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,21 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.TestPerformance.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestPerformance.highVolumeGetRewards.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestPerformance.highVolumeTrackLocation.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.tourguide [test].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.tourguide [verify].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TestPerformance.executor": "Run",
+    "JUnit.TestPerformance.highVolumeGetRewards.executor": "Run",
+    "JUnit.TestPerformance.highVolumeTrackLocation.executor": "Run",
+    "Maven.tourguide [install].executor": "Run",
+    "Maven.tourguide [package].executor": "Run",
+    "Maven.tourguide [test].executor": "Run",
+    "Maven.tourguide [verify].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.TestPerformance.highVolumeTrackLocation">
     <configuration name="TestPerformance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tourguide" />

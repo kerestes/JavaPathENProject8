@@ -1,4 +1,3 @@
-/home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/utils/ThreadPoolSingleton.java
 /home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/TourguideApplication.java
 /home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/tracker/Tracker.java
 /home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/service/RewardsService.java
@@ -7,5 +6,5 @@
 /home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/helper/InternalTestHelper.java
 /home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/user/UserReward.java
 /home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/user/User.java
-/home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/TourGuideModule.java
 /home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/service/TourGuideService.java
+/home/alexandrekerestes/Documents/mission_8/JavaPathENProject8/TourGuide/src/main/java/com/openclassrooms/tourguide/TourGuideModule.java
