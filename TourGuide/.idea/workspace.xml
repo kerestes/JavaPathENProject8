@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="243431be-b03c-4d5c-b59e-21a09f4800ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/openclassrooms/tourguide/TestPerformance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/openclassrooms/tourguide/TestPerformance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestPerformance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestPerformance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestRewardsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/openclassrooms/tourguide/TestRewardsService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.TestPerformance.executor": "Run",
-    "JUnit.TestPerformance.highVolumeGetRewards.executor": "Run",
-    "JUnit.TestPerformance.highVolumeTrackLocation.executor": "Run",
-    "Maven.tourguide [install].executor": "Run",
-    "Maven.tourguide [package].executor": "Run",
-    "Maven.tourguide [test].executor": "Run",
-    "Maven.tourguide [verify].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TestPerformance.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestPerformance.highVolumeGetRewards.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestPerformance.highVolumeTrackLocation.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tourguide [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tourguide [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tourguide [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.tourguide [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.TestPerformance.highVolumeGetRewards">
     <configuration name="TestPerformance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tourguide" />

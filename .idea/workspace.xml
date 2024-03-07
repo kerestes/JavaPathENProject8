@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a974efc8-02a5-45d0-a51e-43fbae6f5700" name="Changes" comment="" />
+    <list default="true" id="a974efc8-02a5-45d0-a51e-43fbae6f5700" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/src/test/java/com/openclassrooms/tourguide/TestPerformance.java" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/src/test/java/com/openclassrooms/tourguide/TestPerformance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestPerformance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestPerformance.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestRewardsService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestRewardsService.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestTourGuideService.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/surefire-reports/TEST-com.openclassrooms.tourguide.TestTourGuideService.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/surefire-reports/TEST-com.openclassrooms.tourguide.TourguideApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/surefire-reports/com.openclassrooms.tourguide.TestPerformance.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/surefire-reports/com.openclassrooms.tourguide.TestPerformance.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/surefire-reports/com.openclassrooms.tourguide.TestRewardsService.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/surefire-reports/com.openclassrooms.tourguide.TestRewardsService.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/surefire-reports/com.openclassrooms.tourguide.TestTourGuideService.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/surefire-reports/com.openclassrooms.tourguide.TestTourGuideService.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/surefire-reports/com.openclassrooms.tourguide.TourguideApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/test-classes/com/openclassrooms/tourguide/TestPerformance.class" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/test-classes/com/openclassrooms/tourguide/TestPerformance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TourGuide/target/test-classes/com/openclassrooms/tourguide/TestRewardsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/TourGuide/target/test-classes/com/openclassrooms/tourguide/TestRewardsService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
