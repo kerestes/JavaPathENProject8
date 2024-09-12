@@ -8,6 +8,7 @@ public class InternalTestHelper {
 	public static void setInternalUserNumber(int internalUserNumber) {
 		InternalTestHelper.internalUserNumber = internalUserNumber;
 	}
+
 	
 	public static int getInternalUserNumber() {
 		return internalUserNumber;
