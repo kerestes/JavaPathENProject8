@@ -29,6 +29,7 @@ public class TourGuideController {
     
     @RequestMapping("/getLocation") 
     public VisitedLocation getLocation(@RequestParam String userName) {
+	    
     	return tourGuideService.getUserLocation(getUser(userName));
     }
     
